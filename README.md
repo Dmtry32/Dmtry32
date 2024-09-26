@@ -12,6 +12,5 @@
 
 ## 🔗 Connect with Me
 
-
-- LinkedIn: [anas-moussaoui76](https://www.linkedin.com/in/anas-moussaoui76/)
-- Email: [anas.moussaoui76@gmail.com](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anas-moussaoui76/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:anas.moussaoui76@gmail.com)
