@@ -7,7 +7,7 @@ Anas Moussaouiis a Devops engineer  in the the Kubernetes and Platform Engineeri
 
 - 🔧 I’m currently working on all things consulting, around Kubernetes, Platforms, cloud ,and Security.
 - 💬 Ask me about Kubernetes, cloud-native, DevOps,
-- 🛠️ How to reach me:  email: [anas.moussaoui76@gmail.com]
+- 🛠️ How to reach me:  email: anas.moussaoui76@gmail.com
 - 😁 Home Bases: [LinkedIn](https://www.linkedin.com/in/anas-moussaoui76/) 
 
 ## 🔗 Connect with Me
