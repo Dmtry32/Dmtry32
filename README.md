@@ -1,8 +1,5 @@
-<h1> Welcome! </h1> </br>
 
-• I’m Anas! @Dmtry32 </br>
-• I am currently studying network and system Engineering at F2I Institut of vincennes 
-# Hi there 👋 I'm [Anas Moussaoui]
+# Hi there 👋 I'm Anas Moussaoui
 
 **Devops Engineer**
 
@@ -16,5 +13,5 @@
 ## 🔗 Connect with Me
 
 
-- LinkedIn: [anas](https://www.linkedin.com/in/anas-moussaoui76/)
-- Email: [](mailto:your.email@domain.com)
+- LinkedIn: [anas-moussaoui76](https://www.linkedin.com/in/anas-moussaoui76/)
+- Email: [anas.moussaoui76@gmail.com](mailto:your.email@domain.com)
