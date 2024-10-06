@@ -3,7 +3,7 @@
 
 **Devops Engineer**
 
-Anas Moussaoui is a Devops engineer  in the the Kubernetes and Platform Engineering  who works with  enterprise.
+Anas Moussaoui is a Devops engineer  in the the Kubernetes and Platform Engineering  .
 
 - 🔧 I’m currently working on all things consulting, around Kubernetes, Platforms, cloud ,and Security.
 - 💬 Ask me about Kubernetes, cloud-native, DevOps,Jenkins
