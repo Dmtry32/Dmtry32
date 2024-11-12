@@ -16,7 +16,8 @@ Anas Moussaoui is a Devops engineer  in the  Kubernetes & Jenkins  and Platform 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:anas.moussaoui76@gmail.com)
      
 
-
+Languages and Tools:
+arduino aws azure bash cassandra circleci css3 django docker elasticsearch figma flask gcp git go grafana heroku html5 illustrator jenkins kibana kubernetes linux mariadb mongodb mssql mysql nginx oracle photoshop postgresql postman python redis sqlite travisci typescript vagrant
 
 
 
